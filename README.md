@@ -1,3 +1,4 @@
 # MultiThreadAuditApp
 
-![alt text] (MultithreadClassDiagram/Multithread class diagram.png)
+![alt text](MultithreadClassDiagram/MultithreadClassDiagram.png)
+
